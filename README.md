@@ -22,3 +22,4 @@ https://github.com/xiangzhang1015/Deep-Learning-for-BCI
 - 160 Hz sampling rate
 - 27 minutes of recording per subject
 - Over 500,000 timesteps processed
+![Results](eeg_results.png)
